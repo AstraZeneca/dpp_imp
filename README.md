@@ -1,5 +1,7 @@
 # Data imputation using Determinantal Point Process (DPP) - based methods
 
+Please contact [Philip Teare](mailto:philip.teare@astrazeneca.com) with any questions about this repo. 
+
 This work presents an implementation of the models presented in the "[Improved clinical data imputation via classical and quantum determinantal point processes](https://arxiv.org/abs/2303.17893)" paper
 
 ## Prerequisites
